@@ -1,0 +1,6 @@
+saya akan belajar : 
+  - React Native
+  - Git
+  - Laravel
+  - React Js
+  - C++
