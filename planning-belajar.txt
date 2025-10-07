@@ -4,10 +4,5 @@ saya akan belajar :
   - Laravel
   - React Js
   - C++
-  - Struktur Data
-  - SQL 
-  - Golang
-  - PHP
-  - C#
   - Python
 
