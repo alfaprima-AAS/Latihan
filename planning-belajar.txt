@@ -3,4 +3,7 @@ saya akan belajar :
   - Git
   - Laravel
   - React Js
-  - C++
+  - PHP
+  - Codeigniter
+  - C#
+  - Python
