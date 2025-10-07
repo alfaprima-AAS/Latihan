@@ -5,9 +5,8 @@ saya akan belajar :
   - React Js
   - C++
   - Struktur Data
-  - SQL 
   - Golang
   - PHP
   - C#
   - Python
-
+  - postgresql
