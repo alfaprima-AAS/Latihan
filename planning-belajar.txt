@@ -10,4 +10,7 @@ saya akan belajar :
   - PHP
   - C#
   - Python
+  - js
+  -Node.js
+  -html dan css
 
