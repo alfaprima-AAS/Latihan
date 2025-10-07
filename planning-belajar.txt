@@ -9,4 +9,7 @@ saya akan belajar :
   - PHP
   - C#
   - Python
+  -Node.js
+  -html dan css
   - postgresql
+
