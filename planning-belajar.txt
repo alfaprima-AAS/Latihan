@@ -6,8 +6,7 @@ saya akan belajar :
   - C++
   - Struktur Data
   - SQL 
-  - Golang
   - PHP
-  - C#
   - Python
-
+  - Manim (Python derivative!)
+  - Ren'py (another Python derivative)
