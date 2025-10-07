@@ -6,5 +6,8 @@ saya akan belajar :
   - C++
   - Struktur Data
   - SQL 
-  - Typescript
   - Golang
+  - PHP
+  - C#
+  - Python
+
