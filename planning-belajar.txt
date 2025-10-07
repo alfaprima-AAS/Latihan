@@ -5,12 +5,11 @@ saya akan belajar :
   - React Js
   - C++
   - Struktur Data
-  - SQL 
   - Golang
   - PHP
   - C#
   - Python
-  - js
   -Node.js
   -html dan css
+  - postgresql
 
